@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\hunte\source\repos\FinalProject_Hunter_Ruel\FinalProject_Hunter_Ruel\Source.cpp(139,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hunte\source\repos\FinalProject_Hunter_Ruel\FinalProject_Hunter_Ruel\Source.cpp(283,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hunte\source\repos\FinalProject_Hunter_Ruel\FinalProject_Hunter_Ruel\Source.cpp(284,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hunte\source\repos\FinalProject_Hunter_Ruel\FinalProject_Hunter_Ruel\Source.cpp(288,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hunte\source\repos\FinalProject_Hunter_Ruel\FinalProject_Hunter_Ruel\Source.cpp(289,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hunte\source\repos\FinalProject_Hunter_Ruel\FinalProject_Hunter_Ruel\Source.cpp(291,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hunte\source\repos\FinalProject_Hunter_Ruel\FinalProject_Hunter_Ruel\Source.cpp(292,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hunte\source\repos\FinalProject_Hunter_Ruel\FinalProject_Hunter_Ruel\Source.cpp(302,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  FinalProject_Hunter_Ruel.vcxproj -> C:\Users\hunte\source\repos\FinalProject_Hunter_Ruel\Debug\FinalProject_Hunter_Ruel.exe
